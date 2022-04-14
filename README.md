@@ -28,8 +28,8 @@
   <h3 align="center">✨ About me ✨ </h3>
 <p align="center" float="left">
 
-<a href="https://bigtyno.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=?hl=ko"/></a>
+<a href="https://ykw3480.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FFB80B?style=flat-square&logo=Tistory&logoColor=white&link=?hl=ko"/></a>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigtyno931128&show_icons=true&theme=tokyonight) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigtyno931128&layout=compact&theme=tokyonight)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyuwonY&show_icons=true&theme=tokyonight) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyuwonY&layout=compact&theme=tokyonight)
   
